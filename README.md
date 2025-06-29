@@ -1,10 +1,17 @@
-### Table of contents:
+## Table of contents:
 - Skipping microsoft account setup during installer
 - Windows settings
+    - Built-in privacy toggles
+    - Use the highest Refresh Rate
 - Debloating / Performance / Telemetry
-- Avoid this junk
+    - Avoid this junk
 
-> # Skipping microsoft account setup during installer
+## Definitions
+**Telemetry** - collection of data
+
+**Debloating** - getting rid of unnecessary things
+
+# Skipping microsoft account setup during installer
 During installation, when it asks you to add a microsoft account, press `Shift + F10` to open the console.
 
 Then, execute these commands:
@@ -16,9 +23,9 @@ shutdown /r /t 0
 ```
 Based on https://pureinfotech.com/bypass-microsoft-account-setup-windows-11/
 
-> # Windows settings
+# Windows settings
 
-> ## Built-in privacy toggles
+> ## 🔒 Built-in privacy toggles
 1. ### Open Windows settings (`⊞ Win + U`)
 
 2. ### Go to `Privacy and Security > Diagnostics`
@@ -42,10 +49,10 @@ Based on https://pureinfotech.com/bypass-microsoft-account-setup-windows-11/
 - Turn everything off (if you can)
 
 8. ### Go to `Privacy and Security` and scroll down
-> You will see an "Application permissions" section.
-- Revoke access to what you do not want applications to know.
+You will see an "Application permissions" section:
+- Revoke access to what you don't want applications to know.
 
-> ## Miscallenous
+> ## 💻 Use the highest Refresh Rate
 
 1. ### Open Windows settings (`⊞ Win + U`)
 
@@ -54,13 +61,16 @@ Based on https://pureinfotech.com/bypass-microsoft-account-setup-windows-11/
 3. ### Press `Advanced display settings`
 - Choose the highest refresh rate available
 
-> # Debloating / Performance / Telemetry
+# Debloating / Performance / Telemetry
+
+> ## ✅ Recommended programs
+
 **Mentions of:**
 Hellzerg Optimizer, O&O Shutup, privacy.sexy
 
 ## ![image](https://github.com/user-attachments/assets/0444329a-1625-4e60-84e1-93050acb719e) 1. Hellzerg Optimizer
 
-Start with Hellzerg's Optimizer @ [github.com/hellzerg/optimizer](https://github.com/hellzerg/optimizer)
+Start with Hellzerg's Optimizer @ [github.com/hellzerg/optimizer](https://github.com/hellzerg/optimizer/releases/)
 <p align="center">
    <img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/banner.png">
 </p>
@@ -77,7 +87,7 @@ Get rid of trackers, telemetry, bloat. Gain privacy, configure apps, cleanup @ [
    <img src="https://github.com/user-attachments/assets/2cfabd95-8ad3-465e-a349-29b60a638ddb">
 </p>
 
-> ## 🛑 Avoid this junk:
+> ## 🛑 Avoid this junk
 
 > [!CAUTION]
 > ### ![hone opt](https://github.com/user-attachments/assets/99c5855e-cd7c-4cac-98aa-9333a13cacce) 1. Hone
@@ -86,16 +96,16 @@ Get rid of trackers, telemetry, bloat. Gain privacy, configure apps, cleanup @ [
 > [!CAUTION]
 > ### ![exitlag](https://github.com/user-attachments/assets/025a7837-a975-4d5c-8c65-adb70e1fb86a) 2. ExitLag
 > - Change your dns to:
-> ```1.1.1.1``` (cloudflare) 
+> `1.1.1.1` (cloudflare) 
 > or 
-> ```8.8.8.8 (google)```
+> `8.8.8.8` (google)
 > and check if that helps.
 
 > [!CAUTION]
 > ### ![ccleaner](https://github.com/user-attachments/assets/2a502fe9-99bb-41fc-a743-695ab59a7ce3) ![image](https://github.com/user-attachments/assets/aa9581bd-a3ef-4dd8-8c84-dd9039ba2afe) 3. "Driver Booster" / "Cleaner" apps
 > - Manually install drivers from official websites. (Download standalone installers, not whole apps)
 >   
-> - Manually clean files on the disk you don't need. (Folders like `Photos`, `Videos`, `Documents` or `Downloads`)
+> - Manually clean files on the disk you don't need. (Folders like `Photos`, `Videos`, `Documents`, `Downloads` or `Temp`)
 
 > [!CAUTION]
 > ### ![avast](https://github.com/user-attachments/assets/c3a36f30-4f7f-4dd4-b477-8f73eb5161d8) 4. Antiviruses
