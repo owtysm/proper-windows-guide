@@ -1,3 +1,6 @@
+A guide on how to make your Windows 11 actually yours.<br>
+Technical knowledge is needed for some specific parts, enjoy.
+
 ## Table of contents:
 - Skipping microsoft account setup during installer
 - Windows settings
@@ -151,3 +154,19 @@ https://duckduckgo.com/?q=%s
 > https://www.google.com/search?q=%s&peek_pws=0
 > ```
 > Be aware they may still be tracking you.
+
+## Extensions
+
+> ### ![image](https://github.com/user-attachments/assets/f0214d35-79a6-44a8-96e3-ec065ca93f5f) uBlock Origin
+Blocks ads.
+
+> ### ![image](https://github.com/user-attachments/assets/759df5e0-1c18-44e3-bf11-b58c04bd9369) SponsorBlock
+Auto-skip sponsors in YouTube videos.
+
+> ### ![image](https://github.com/user-attachments/assets/603ff661-cee1-4403-9027-4976aedaae08) Privacy Badger
+Blocks trackers.
+
+> ### ![image](https://github.com/user-attachments/assets/b91cf322-7c4e-46cf-acb3-3fb883423b75) Facebook Container
+Blocks facebook trackers on non-facebook websites.
+
+
