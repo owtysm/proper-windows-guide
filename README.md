@@ -51,7 +51,7 @@ Based on https://pureinfotech.com/bypass-microsoft-account-setup-windows-11/
 
 2. ### Go to `System > Display`
 
-3. ### Press "Advanced display settings"
+3. ### Press `Advanced display settings`
 - Choose the highest refresh rate available
 
 > # Debloating / Performance / Telemetry
