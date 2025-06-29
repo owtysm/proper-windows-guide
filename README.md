@@ -133,8 +133,15 @@ Can't go wrong with Firefox, it is THE open-source browser.
 
 ## Search engine
 
+To change your search engine, go to your browser's settings and search for a "Search" or "Search shortcuts" page.
+
+Most browsers will let you choose the "Default Search Engine".
+
 > ### ![image](https://github.com/user-attachments/assets/1b82f7e7-191a-4382-ae2c-cc9b800c47e8) DuckDuckGo
 Has everything Google has, yet is very focused on privacy.
+```
+https://duckduckgo.com/?q=%s
+```
 
 > [!WARNING] 
 > ## If you want to use Google
