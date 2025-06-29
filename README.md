@@ -73,6 +73,16 @@ You will see an "Application permissions" section:
 3. ### Press `Advanced display settings`
 - Choose the highest refresh rate available
 
+## Taskbar Cleanup
+
+1. ### Right-click the taskbar
+
+2. ### Press "Taskbar settings"
+
+3. ### Turn off:
+- Task view
+- Widgets
+
 # Debloating / Performance / Telemetry
 
 ## Recommended programs
