@@ -5,13 +5,17 @@
     - Use the highest Refresh Rate
 - Debloating / Performance / Telemetry
     - Avoid this junk
+- Browser
+    - The options we have
+    - Search engine
+        - If you want to use Google
 
 ## Definitions
 **Telemetry** - collection of data
 
 **Debloating** - getting rid of unnecessary things
 
-# Skipping microsoft account setup during installer
+# 💽 Skipping microsoft account setup during installer
 During installation, when it asks you to add a microsoft account, press `Shift + F10` to open the console.
 
 Then, execute these commands:
@@ -23,9 +27,9 @@ shutdown /r /t 0
 ```
 Based on https://pureinfotech.com/bypass-microsoft-account-setup-windows-11/
 
-# Windows settings
+# ⚙️ Windows settings
 
-> ## 🔒 Built-in privacy toggles
+## Built-in privacy toggles
 1. ### Open Windows settings (`⊞ Win + U`)
 
 2. ### Go to `Privacy and Security > Diagnostics`
@@ -52,7 +56,7 @@ Based on https://pureinfotech.com/bypass-microsoft-account-setup-windows-11/
 You will see an "Application permissions" section:
 - Revoke access to what you don't want applications to know.
 
-> ## 💻 Use the highest Refresh Rate
+## Use the highest Refresh Rate
 
 1. ### Open Windows settings (`⊞ Win + U`)
 
@@ -63,7 +67,7 @@ You will see an "Application permissions" section:
 
 # Debloating / Performance / Telemetry
 
-> ## ✅ Recommended programs
+## Recommended programs
 
 **Mentions of:**
 Hellzerg Optimizer, O&O Shutup, privacy.sexy
@@ -87,7 +91,7 @@ Get rid of trackers, telemetry, bloat. Gain privacy, configure apps, cleanup @ [
    <img src="https://github.com/user-attachments/assets/2cfabd95-8ad3-465e-a349-29b60a638ddb">
 </p>
 
-> ## 🛑 Avoid this junk
+## Avoid this junk
 
 > [!CAUTION]
 > ### ![hone opt](https://github.com/user-attachments/assets/99c5855e-cd7c-4cac-98aa-9333a13cacce) 1. Hone
@@ -107,7 +111,36 @@ Get rid of trackers, telemetry, bloat. Gain privacy, configure apps, cleanup @ [
 >   
 > - Manually clean files on the disk you don't need. (Folders like `Photos`, `Videos`, `Documents`, `Downloads` or `Temp`)
 
-> [!NOTE]  
-> ### ![avast](https://github.com/user-attachments/assets/c3a36f30-4f7f-4dd4-b477-8f73eb5161d8) 4. Antiviruses
-> Having an anti-virus is fine, but you shouldn't pay for one.
+> [!NOTE] 
+> ### ![avast](https://github.com/user-attachments/assets/b6df3ca8-32a8-4472-a43c-8ad707e3b798) 4. Antiviruses
+> While they aren't bad, you shouldn't be paying for one.
+> 
+> Windows Defender is usually good enough.
 
+
+# 🌐 Browser
+## The options we have
+
+Don't use Microsoft Edge, nor Google Chrome, they collect your data in the background.
+
+Here's what I personally recommend:
+
+> ### ![image](https://github.com/user-attachments/assets/f331a318-03fc-4526-aea7-f5d3e520b08a) [Zen Browser](https://zen-browser.app/download/)
+An open-source fork of Firefox, beautiful UI and focus on privacy.
+
+> ### ![image](https://github.com/user-attachments/assets/062e6131-f9f8-4ca3-abab-d71950132b4f) [Firefox](https://www.mozilla.org/en-US/firefox/download/thanks/)
+Can't go wrong with Firefox, it is THE open-source browser.
+
+## Search engine
+
+> ### ![image](https://github.com/user-attachments/assets/1b82f7e7-191a-4382-ae2c-cc9b800c47e8) DuckDuckGo
+Has everything Google has, yet is very focused on privacy.
+
+> [!WARNING] 
+> ## If you want to use Google
+> Google, by default, collects your data with every search.
+> - If you want to use Google, modify its search parameters in your browser's settings:
+> ```
+> https://www.google.com/search?q=%s&peek_pws=0
+> ```
+> Be aware they may still be tracking you.
