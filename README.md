@@ -107,7 +107,7 @@ Get rid of trackers, telemetry, bloat. Gain privacy, configure apps, cleanup @ [
 >   
 > - Manually clean files on the disk you don't need. (Folders like `Photos`, `Videos`, `Documents`, `Downloads` or `Temp`)
 
-> [!CAUTION]
+> [!NOTE]  
 > ### ![avast](https://github.com/user-attachments/assets/c3a36f30-4f7f-4dd4-b477-8f73eb5161d8) 4. Antiviruses
 > Having an anti-virus is fine, but you shouldn't pay for one.
 
