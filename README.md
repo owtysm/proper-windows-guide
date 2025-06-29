@@ -157,16 +157,16 @@ https://duckduckgo.com/?q=%s
 
 ## Extensions
 
-> ### ![image](https://github.com/user-attachments/assets/f0214d35-79a6-44a8-96e3-ec065ca93f5f) uBlock Origin
+> ### ![image](https://github.com/user-attachments/assets/f0214d35-79a6-44a8-96e3-ec065ca93f5f) [uBlock Origin](https://ublockorigin.com/)
 Blocks ads.
 
-> ### ![image](https://github.com/user-attachments/assets/759df5e0-1c18-44e3-bf11-b58c04bd9369) SponsorBlock
+> ### ![image](https://github.com/user-attachments/assets/759df5e0-1c18-44e3-bf11-b58c04bd9369) [SponsorBlock](https://sponsor.ajay.app/)
 Auto-skip sponsors in YouTube videos.
 
-> ### ![image](https://github.com/user-attachments/assets/603ff661-cee1-4403-9027-4976aedaae08) Privacy Badger
+> ### ![image](https://github.com/user-attachments/assets/603ff661-cee1-4403-9027-4976aedaae08) [Privacy Badger](https://privacybadger.org/)
 Blocks trackers.
 
-> ### ![image](https://github.com/user-attachments/assets/b91cf322-7c4e-46cf-acb3-3fb883423b75) Facebook Container
+> ### ![image](https://github.com/user-attachments/assets/b91cf322-7c4e-46cf-acb3-3fb883423b75) (Firefox only) [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
 Blocks facebook trackers on non-facebook websites.
 
 
