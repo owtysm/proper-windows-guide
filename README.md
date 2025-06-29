@@ -1,4 +1,8 @@
-A guide on how to make your Windows 11 actually yours.<br>
+A guide on how to make your Windows 11 actually yours:<br>
+- Reclaim privacy
+- Remove bloat
+- Speed up your system
+
 While things here may sound advanced, I tried making the guide easy to follow for anyone. 
 
 ## Table of contents:
@@ -9,9 +13,10 @@ While things here may sound advanced, I tried making the guide easy to follow fo
 - Debloating / Performance / Telemetry
     - Avoid this junk
 - Browser
-    - The options we have
+    - Available browsers
     - Search engine
         - If you want to use Google
+    - Extensions
 
 ## Definitions
 **Telemetry** - collection of data
@@ -122,7 +127,7 @@ Get rid of trackers, telemetry, bloat. Gain privacy, configure apps, cleanup @ [
 
 
 # 🌐 Browser
-## The options we have
+## Available browsers
 
 Don't use Microsoft Edge, nor Google Chrome, they collect your data in the background.
 
