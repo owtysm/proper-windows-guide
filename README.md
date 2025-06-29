@@ -10,6 +10,7 @@ While things here may sound advanced, I tried making the guide easy to follow fo
 - Windows settings
     - Built-in privacy toggles
     - Use the highest Refresh Rate
+    - Taskbar Cleanup
 - Debloating / Performance / Telemetry
     - Avoid this junk
 - Browser
