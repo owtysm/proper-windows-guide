@@ -1,5 +1,5 @@
 A guide on how to make your Windows 11 actually yours.<br>
-Technical knowledge is needed for some specific parts, enjoy.
+While things here may sound advanced, I tried making the guide easy to follow for anyone. 
 
 ## Table of contents:
 - Skipping microsoft account setup during installer
