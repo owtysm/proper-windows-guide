@@ -17,6 +17,7 @@ shutdown /r /t 0
 Based on https://pureinfotech.com/bypass-microsoft-account-setup-windows-11/
 
 > # Windows settings
+
 > ## Built-in privacy toggles
 1. ### Open Windows settings (`⊞ Win + U`)
 
