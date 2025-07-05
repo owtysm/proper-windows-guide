@@ -25,7 +25,10 @@ While things here may sound advanced, I tried making the guide easy to follow fo
 **Debloating** - getting rid of unnecessary things
 
 # 💽 Skipping microsoft account setup during installer
-During installation, when it asks you to add a microsoft account, press `Shift + F10` to open the console.
+During installation, when it asks you to add a microsoft account, you can actually skip that step.
+Provide fake/wrong data and proceed until it errors out. Usually, you can set-up a local account after this.
+
+**However, if it doesn't work**, press `Shift + F10` to open the console. 
 
 Then, execute these commands:
 ```
