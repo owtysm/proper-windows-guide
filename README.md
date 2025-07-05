@@ -1,4 +1,3 @@
-A guide on how to make your Windows 11 actually yours:<br>
 - Reclaim privacy
 - Remove bloat
 - Speed up your system
