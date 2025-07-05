@@ -84,7 +84,7 @@ You will see an "Application permissions" section:
 - Task view
 - Widgets
 
-# Debloating / Performance / Telemetry
+# ⚡ Debloating / Performance / Telemetry
 
 ## Recommended programs
 You can delete their files once you're done with them.
