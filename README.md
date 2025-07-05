@@ -39,48 +39,48 @@ Based on https://pureinfotech.com/bypass-microsoft-account-setup-windows-11/
 # ⚙️ Windows settings
 
 ## Built-in privacy toggles
-1. ### Open Windows settings (`⊞ Win + U`)
+1. **Open Windows settings (`⊞ Win + U`)**
 
-2. ### Go to `Privacy and Security > Diagnostics`
+2. **Go to `Privacy and Security > Diagnostics`**
 - Turn everything off
 - Press "Delete diagnostic data"
 
-3. ### Go to `Privacy and Security > Handwriting and input personalization`
+3. **Go to `Privacy and Security > Handwriting and input personalization`**
 - Turn off "Custom handwriting and writing dictionary"
 
-4. ### Go to `Privacy and Security > Search permissions`
+4. **Go to `Privacy and Security > Search permissions`**
 - Turn off "Search history on this device"
 - Press "Clear device's search history"
 
-5. ### Go to `Privacy and Security > General`
+5. **Go to `Privacy and Security > General`**
 - Turn everything off
 
-6. ### Go to `Privacy and Security > Speech`
+6. **Go to `Privacy and Security > Speech`**
 - Turn everything off (if you can)
 
-7. ### Go to `Privacy and Security > Activity history`
+7. **Go to `Privacy and Security > Activity history`**
 - Turn everything off (if you can)
 
-8. ### Go to `Privacy and Security` and scroll down
+8. **Go to `Privacy and Security` and scroll down**
 You will see an "Application permissions" section:
 - Revoke access to what you don't want applications to know.
 
 ## Use the highest Refresh Rate
 
-1. ### Open Windows settings (`⊞ Win + U`)
+1. **Open Windows settings (`⊞ Win + U`)**
 
-2. ### Go to `System > Display`
+2. **Go to `System > Display`**
 
-3. ### Press `Advanced display settings`
+3. **Press `Advanced display settings`**
 - Choose the highest refresh rate available
 
 ## Taskbar Cleanup
 
-1. ### Right-click the taskbar
+1. **Right-click the taskbar**
 
-2. ### Press "Taskbar settings"
+2. **Press "Taskbar settings"**
 
-3. ### Turn off:
+3. **Turn off:**
 - Task view
 - Widgets
 
@@ -145,11 +145,13 @@ Don't use Microsoft Edge, nor Google Chrome, they collect your data in the backg
 
 Here's what I personally recommend:
 
-> ### ![image](https://github.com/user-attachments/assets/f331a318-03fc-4526-aea7-f5d3e520b08a) [Zen Browser](https://zen-browser.app/download/)
-An open-source fork of Firefox, beautiful UI and focus on privacy.
+> **![image](https://github.com/user-attachments/assets/f331a318-03fc-4526-aea7-f5d3e520b08a) [Zen Browser](https://zen-browser.app/download/)**
+> 
+> An open-source fork of Firefox, beautiful UI and focus on privacy.
 
-> ### ![image](https://github.com/user-attachments/assets/062e6131-f9f8-4ca3-abab-d71950132b4f) [Firefox](https://www.mozilla.org/en-US/firefox/download/thanks/)
-Can't go wrong with Firefox, it is THE open-source browser.
+> **![image](https://github.com/user-attachments/assets/062e6131-f9f8-4ca3-abab-d71950132b4f) [Firefox](https://www.mozilla.org/en-US/firefox/download/thanks/)**
+> 
+> Can't go wrong with Firefox, it is THE open-source browser.
 
 ## Search engine
 
@@ -157,8 +159,9 @@ To change your search engine, go to your browser's settings and search for a "Se
 
 Most browsers will let you choose the "Default Search Engine".
 
-> ### ![image](https://github.com/user-attachments/assets/1b82f7e7-191a-4382-ae2c-cc9b800c47e8) DuckDuckGo
-Has everything Google has, yet is very focused on privacy.
+> **![image](https://github.com/user-attachments/assets/1b82f7e7-191a-4382-ae2c-cc9b800c47e8) DuckDuckGo**
+> 
+> Has everything Google has, yet is very focused on privacy.
 ```
 https://duckduckgo.com/?q=%s
 ```
@@ -174,16 +177,16 @@ https://duckduckgo.com/?q=%s
 
 ## Extensions
 
-> ### ![image](https://github.com/user-attachments/assets/f0214d35-79a6-44a8-96e3-ec065ca93f5f) [uBlock Origin](https://ublockorigin.com/)
+> **![image](https://github.com/user-attachments/assets/f0214d35-79a6-44a8-96e3-ec065ca93f5f) [uBlock Origin](https://ublockorigin.com/)**
 Blocks ads.
 
-> ### ![image](https://github.com/user-attachments/assets/759df5e0-1c18-44e3-bf11-b58c04bd9369) [SponsorBlock](https://sponsor.ajay.app/)
+> **![image](https://github.com/user-attachments/assets/759df5e0-1c18-44e3-bf11-b58c04bd9369) [SponsorBlock](https://sponsor.ajay.app/)**
 Auto-skip sponsors in YouTube videos.
 
-> ### ![image](https://github.com/user-attachments/assets/603ff661-cee1-4403-9027-4976aedaae08) [Privacy Badger](https://privacybadger.org/)
+> **![image](https://github.com/user-attachments/assets/603ff661-cee1-4403-9027-4976aedaae08) [Privacy Badger](https://privacybadger.org/)**
 Blocks trackers.
 
-> ### ![image](https://github.com/user-attachments/assets/b91cf322-7c4e-46cf-acb3-3fb883423b75) (Firefox only) [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
+> **![image](https://github.com/user-attachments/assets/b91cf322-7c4e-46cf-acb3-3fb883423b75) (Firefox only) [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)**
 Blocks facebook trackers on non-facebook websites.
 
 
