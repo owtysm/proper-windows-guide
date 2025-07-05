@@ -11,6 +11,7 @@ While things here may sound advanced, I tried making the guide easy to follow fo
     - Use the highest Refresh Rate
     - Taskbar Cleanup
 - Debloating / Performance / Telemetry
+    - Recommended programs
     - Avoid this junk
 - Browser
     - Available browsers
@@ -86,6 +87,7 @@ You will see an "Application permissions" section:
 # Debloating / Performance / Telemetry
 
 ## Recommended programs
+You can delete their files once you're done with them.
 
 **Mentions of:**
 Hellzerg Optimizer, O&O Shutup, privacy.sexy
