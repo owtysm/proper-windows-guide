@@ -108,11 +108,15 @@ Remove tracking and useless behaviour with O&O Shutup @ [oo-software.com/en/down
    <img src="https://github.com/user-attachments/assets/4e54502e-7b65-4b87-8784-594fa29723e4">
 </p>
 
+- My .cfg file for O&O Shutup can be found here: https://github.com/owtysm/proper-windows-guide/blob/main/ooshutup10.cfg
+
 ## ![image](https://github.com/user-attachments/assets/be45ed3f-7a27-490a-aa3e-dc44a3bda1ee) 3. privacy.sexy
 Get rid of trackers, telemetry, bloat. Gain privacy, configure apps, cleanup @ [privacy.sexy](https://privacy.sexy/)
 <p align="center">
    <img src="https://github.com/user-attachments/assets/2cfabd95-8ad3-465e-a349-29b60a638ddb">
 </p>
+
+- My scripts created with privacy.sexy can be found here: https://github.com/owtysm/proper-windows-guide/tree/main/scripts
 
 ## Avoid this junk
 
